@@ -1,0 +1,44 @@
+body{
+  background-color: #000;
+}
+*{
+  color:rgb(0, 0, 0) ;
+}
+.card{
+  margin: 25px;
+  width: 250px;
+  
+  display: inline-block;
+  
+  background-color: #e4e4e4;
+  
+}
+
+img{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+.bod{
+  border-bottom: 3px solid rgb(255, 186, 38);
+  border-left: 3px solid rgb(255, 186, 38);
+  border-right: 3px solid rgb(255, 186, 38);
+  
+  
+}
+.card-title{
+  height: 60px ;
+  background-color: rgb(40, 67, 85);
+  font-size: 20px;
+  padding: 0 10px 0 10px;
+  margin: 0;
+  color: #ffffff;
+}
+.discrip{
+  font-size: 13px;
+  padding: 0 0 5px 5px;
+}
+.cardswraper{
+  display: inline;
+}
